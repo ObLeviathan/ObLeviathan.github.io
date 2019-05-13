@@ -6,15 +6,15 @@ header{background-color: yellow;
 font-size: 400%;
 text-align:center;
 color: black;
-margin-top: 20px;
-margin-right:0px;
-margin-left:0px;
+margin-top: 2%;
+margin-right:0%;
+margin-left:0%;
 background-image: url("https://www.meme-arsenal.com/memes/a876330974c0907e9506807a7232148c.jpg");
 background-size: 100% 100%;
 background-repeat: no-repeat;
 font-family: 'Anton', sans-serif;
-padding-bottom:10px;
-margin-top:20px;
+padding-bottom:1%;
+margin-top:5%;
 }
 
 Nav{
@@ -24,6 +24,7 @@ Nav{
  border:6px solid gold;
  font-family: 'Anton', sans-serif;
 color: black;
+margin-right:0%;
 }
 
 
@@ -32,96 +33,98 @@ h2
 
 h1{background-color: yellow;
 border: 4px solid darkorange;
-padding-top:20px;
-padding-bottom:20px;
-padding-left:50px;
-padding-right:10px;
-margin-right: 1070px;
-margin-top: 40px;
+padding-top:2%;
+padding-bottom:2%;
+padding-left:5%;
+padding-right:5%;
+margin-right: 70%;
+margin-top: 5%;
 color: black;
-font-size:40px; 
+font-size:250%; 
 font-family: 'Fjalla One', sans-serif;}
 
 h4
-{margin-right: 800px;
-padding-top:20px;
-padding-bottom:20px;
-padding-left:20px;
-padding-right:20px;
+{margin-right: 70%;
+padding-top:2%;
+padding-bottom:2%;
+padding-left:2%;
+padding-right:2%;
 background-color:fff44f;
 border:2px solid orange;
 font-family: 'Nova Flat', cursive;
-font-size: 20px
+font-size: 100%
 }
 
 
 footer{
 font-family: 'Anton', sans-serif;
 background-color:orange;
-padding-left: 500px;
-padding-right:500px;
-padding-top:100px;
-padding-bottom:100px;
+padding-left: 30%;
+padding-right:30%;
+padding-top: 5%;
+padding-bottom:5%;
 border-top: 3px solid darkorange;
 text-align:center;
 color: black;
 border-left:3px solid darkorange;
 border-right: 3px solid darkorange;
 background-image: url("https://cdn-images-1.medium.com/max/1200/1*S-eCEF0XS4J6TZW9NqJyIQ.jpeg");
-background-size: 1390px 500px;
+background-size: 120% 120%;
 background-repeat: no-repeat;
-font-size:35px;}
+font-size: 125%;}
 
 .totop{background-color: orange;
 border-top: 3px solid darkorange;
 border-left:3px solid darkorange;
 border-right:3px solid darkorange;
-padding-left: 500px;
-padding-right:500px;
-padding-bottom:10px;
-padding-top:25px;
+padding-left: 30%;
+padding-right: 30%;
+padding-bottom: 1%;
+padding-top: 2.5%;
 font-family: 'Anton', sans-serif;
-font-size: 45;
+font-size: 200%;
 text-align:center;}
 
 .picture{
 background-image: url("https://my-brushes.s3.amazonaws.com/images/vector/413029/preview/bl-Preview.png?v=5");
-background-size: 1400px 1000px;
+background-size: 140% 200%;
 background-repeat: no-repeat;
-margin-left: 40px;
-margin-right:200px;
-padding-left: 250px;
-padding-right:250px;
-padding-bottom:250px;
-padding-top:250px;
+margin-left: 4%;
+margin-right:20%;
+padding-left: 5%;
+padding-right:5%;
+padding-bottom:7%;
+padding-top:6%;
 background-color: yellow;
-border-radius: 100px;
+border-radius: 2%;
 border: 10px solid darkorange;
 }
 
-h6{font-size: 25px;
+h6{font-size: 100%;
 text-align:center;
 background-color: orange;}
 
 .home{
 display: inline-block;
-width: 10%;
+width: 17%;
 border-right:solid 10px gold;
 font-size: 100%;
 text-align: center;
 }
 .project{
 display: inline-block;
-width: 16%;
+width: 20%;
 border-right:solid 5px gold;
-font-size:30px;
+font-size:70%;
 border-top: 8px solid gold;
 text-align: center;
 }
 .term1{
 display: inline-block;
-width: 14%;
+width: 25%;
 border-right:solid 5px gold;
+font-size: 100%;
+text-align: center;
 }
 
 
